@@ -26,6 +26,8 @@ The Collective / Building the New World
 
 ​Community-Crafted Utility: Proposals for mini-games, integrations, or other experiments are submitted and voted on.
 ​
+
+
 Phase 4: 
 The Anarchy Unleashed
 
