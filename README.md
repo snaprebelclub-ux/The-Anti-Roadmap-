@@ -1,6 +1,6 @@
 # The-Anti-Roadmap-
 
-​Snap Rebel Club: The Unified Anti-Roadmap
+
 ​
 
 ​Snap Rebel Club is a decentralized rebellion. Zombie Punks are the faces of the uprising, a self-governed culture that resists rugs, FUD, and control. This isn't a collection—it's an army.
