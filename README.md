@@ -26,7 +26,9 @@ The Collective / Building the New World
 
 ​Community-Crafted Utility: Proposals for mini-games, integrations, or other experiments are submitted and voted on.
 ​
-Phase 4: The Anarchy Unleashed
+Phase 4: 
+The Anarchy Unleashed
+
 ​Creative Freedom: Every Zombie Punk is yours to use—full commercial rights.
 
 ​Rebel Creations: Turn your punk into music, art, merch, comics, or animations—whatever keeps the rebellion alive.
