@@ -92,7 +92,7 @@ Full comic and extended lore available in community channels.
 
 2. **Join the Community:**  
    - Follow on X and Instagram  
-   - Join Discord (link above)  
+   - Join Discord https://discord.gg/VT4h7vmEKJ 
    - Vote on DAO proposals  
 
 3. **Contribute:**  
