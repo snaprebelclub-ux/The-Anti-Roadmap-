@@ -1,4 +1,3 @@
-
 Snap Rebel Club NFT Collection
 Overview
 Snap Rebel Club is a fully decentralized NFT collection of punk zombies on the Base chain, built with ERC-1155 for flexible editions and utilities. Inspired by rebellion against centralized control, these undead punks break free from puppet strings, forming a community-driven horde with DAO governance, treasury vaults, and open licensing. The project emphasizes anti-roadmap anarchy, where holders vote on evolutions, airdrops, and cross-collection alliances.
