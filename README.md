@@ -133,7 +133,7 @@ Stay tuned on socials for updates.
 
 ## Contact  
 
-- **Discord:** [Join here](https://discord.gg/VT4h7vmEKJ)  
+- **Discord:** (https://discord.gg/VT4h7vmEKJ)  
 - **X:** [@SnapRebelClub](https://x.com/SnapRebelClub)  
 
 Built by rebels, for rebels. Break those strings.
