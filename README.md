@@ -92,7 +92,7 @@ Full comic and extended lore available in community channels.
 
 2. **Join the Community:**  
    - Follow on X and Instagram  
-   - Join Discord https://discord.gg/VT4h7vmEKJ 
+   - Join Discord (link above)  
    - Vote on DAO proposals  
 
 3. **Contribute:**  
@@ -133,7 +133,7 @@ Stay tuned on socials for updates.
 
 ## Contact  
 
-- **Discord:** (https://discord.gg/VT4h7vmEKJ)  
+- **Discord:** [Join here](https://discord.gg/VT4h7vmEKJ)  
 - **X:** [@SnapRebelClub](https://x.com/SnapRebelClub)  
 
 Built by rebels, for rebels. Break those strings.
