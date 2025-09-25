@@ -1,3 +1,4 @@
+
 # Snap Rebel Club NFT Collection
 
 **Snap Rebel Club** is a fully decentralized NFT collection of punk zombies on the **Base** chain, built with **ERC-1155** for flexible editions and utilities.
@@ -52,7 +53,7 @@ The project emphasizes **anti-roadmap anarchy**, where holders vote on evolution
 
 ## Platforms  
 
-- **Marketplace:** [OpenSea – Snap Rebel Club](#)  
+- **Marketplace:** [OpenSea – Snap Rebel Club](https://opensea.io/collection/snap-rebel-club)  
 - **Socials:**  
   - X: [@SnapRebelClub](https://x.com/SnapRebelClub)  
   - Instagram: [@snaprebelclub](https://instagram.com/snaprebelclub)  
@@ -86,7 +87,7 @@ Full comic and extended lore available in community channels.
 ## How to Get Involved
 
 1. **Mint:**  
-   - Go to [OpenSea](#)  
+   - Go to [OpenSea – Snap Rebel Club](https://opensea.io/collection/snap-rebel-club)  
    - Connect wallet (MetaMask recommended)  
    - Claim via Base chain  
 
