@@ -63,7 +63,7 @@ No rigid timelines. Just relentless progress.
 ## **Join the Shitshow**
 
 ### **Snag a Rebel**
-1. Go to [OpenSea](https://opensea.io) or [Rarible](https://rarible.com)  
+1. Go to [OpenSea](https://opensea.io/collection/snap-rebel-club) or [Rarible](https://og.rarible.com/snaprebelclub)  
 2. Connect your wallet  
 3. Mint your Rebel — weekly drops, rare hits pack more punch  
 
@@ -80,8 +80,8 @@ No rigid timelines. Just relentless progress.
 
 **X (Twitter):** [@SnapRebelClub](https://twitter.com/SnapRebelClub)  
 **Instagram:** [@snap.rebel.club_nft](https://instagram.com/snap.rebel.club_nft)  
-**Discord:** Link in bio — rally with the horde  
-**Farcaster:** Link in bio — decentralized discourse  
+**Discord:** https://discord.gg/PCZYN2U73m — rally with the horde  
+**Farcaster:** https://farcaster.xyz/snap-rebel-club — decentralized discourse  
 
 **Hashtags:**  
 `#FuckTheSystem` `#SnapRebelClub` `#NFTRebellion`
