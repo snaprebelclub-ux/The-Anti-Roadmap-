@@ -22,7 +22,7 @@ No suits. No sellouts. Just **community-driven evolution** on the **Base chain**
 - **Total Supply:** 500 savage Rebels, minted in waves — fuck arbitrary limits beyond that  
 - **Rarity Tiers:** Common, Rare, Legendary *(perks = enhanced DAO influence)*  
 - **Blockchain:** Base — efficient, scalable, decentralized. No more gas fee extortion  
-- **Marketplaces:** [OpenSea] (https://opensea.io/collection/snap-rebel-club) | [Rarible](https://og.rarible.com/snaprebelclub)  
+- **Marketplaces:** [OpenSea](https://opensea.io/collection/snap-rebel-club) | [Rarible](https://og.rarible.com/snaprebelclub)  
 - **Floor Price:** 0.0001 ETH *(value driven by collective, not speculation)*  
 - **Community:** Compact, fierce, and fueling the fire
 
@@ -80,8 +80,8 @@ No rigid timelines. Just relentless progress.
 
 **X (Twitter):** [@SnapRebelClub](https://twitter.com/SnapRebelClub)  
 **Instagram:** [@snap.rebel.club_nft](https://instagram.com/snap.rebel.club_nft)  
-**Discord:** https://discord.gg/PCZYN2U73m rally with the horde  
-**Farcaster:** https://farcaster.xyz/snap-rebel-club decentralized discourse  
+**Discord:** Link in bio — rally with the horde  
+**Farcaster:** Link in bio — decentralized discourse  
 
 **Hashtags:**  
 `#FuckTheSystem` `#SnapRebelClub` `#NFTRebellion`
